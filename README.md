@@ -12,6 +12,12 @@
 - Success messages
 - Possibility of being used by penetration testing teams (Red Teams) to simulate phishing attacks in security studies.
 
+# Requirements
+- A valid Vonage account with API credentials (private key file and app ID) is required to use this tool. Without these, the tool will not be able to make encrypted calls.
+To obtain your API credentials, you will need to sign up for a Vonage account and create a new application within the Vonage Developer Dashboard. Once you have created your application, you will be provided with a private key file and app ID, which you will need to use when running the Scream Me tool.
+
+***Please note that usage of this tool and the Vonage API is subject to the Vonage API terms of use and acceptable use policy, which can be found on the Vonage Developer website.***
+
 ## Usage
 1. Enter the phone number you want to call
 2. Enter the phone number you are using to make the call
