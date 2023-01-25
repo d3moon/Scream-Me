@@ -35,6 +35,7 @@
   python3 welcome.py
 ```
     
+***The use of these tools is for teaching purposes, research and assistance to the Red Team team. Use with care!***
 
 ## Authors
 
